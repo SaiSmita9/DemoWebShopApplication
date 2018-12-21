@@ -7,6 +7,7 @@ public class sample {
 		
 		System.out.println("Vensai Technologies");
 		System.out.println("Vensai");
+		System.out.println("Technologies");
 
 	}
 
